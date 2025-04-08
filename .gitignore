@@ -1,0 +1,42 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Selenium webdriver files
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Scraped data files
+*.json
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
