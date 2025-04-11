@@ -23,11 +23,6 @@ chromedriver.exe
 geckodriver
 geckodriver.exe
 
-# Scraped data files
-*.json
-*.csv
-*.xlsx
-
 # Logs
 *.log
 
