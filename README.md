@@ -30,7 +30,7 @@ pip install selenium jupyter pandas dataclasses
 jupyter notebook
 ```
 
-2. Open the `Aula 08 - Selenium.ipynb` notebook.
+2. Open the `series_scraping.ipynb` notebook.
 3. Run all cells in sequence by clicking "Cell" > "Run All" or run individual cells with Shift+Enter.
 
 ## What the Code Does
